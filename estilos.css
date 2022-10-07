@@ -221,6 +221,10 @@ body {
   position: relative;
 }
 
+.post video {
+  width: 614px;
+}
+
 .story .story-img {
   position: absolute;
   width: 56px;
@@ -342,6 +346,9 @@ body {
   }
 
   .img-post {
+    width: 100%;
+  }
+  .post video {
     width: 100%;
   }
 }
