@@ -333,6 +333,7 @@ body {
   }
   .caixa-stories {
     background-color: #fafafa;
+    height: 110px;
   }
   .container-topo {
     display: none;
