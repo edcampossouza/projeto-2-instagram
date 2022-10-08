@@ -4,6 +4,7 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #fafafa;
+  overflow-x: hidden;
 }
 .pagina {
   justify-content: center;
@@ -348,5 +349,4 @@ body {
   .seta-direita {
     display: none;
   }
-  
 }
