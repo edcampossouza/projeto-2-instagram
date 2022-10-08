@@ -121,7 +121,7 @@ body {
 
 .sidebar {
   margin-top: 66px;
-  margin-left: 20px;
+  margin-left: 28px;
   height: fit-content;
   width: 293px;
 }
@@ -314,7 +314,7 @@ body {
 
 @media screen and (min-width: 614px) {
   .caixa-stories {
-    margin: 38px 0 0 0;
+    margin: 34px 0 0 0;
   }
   .caixa-posts {
     margin: 24px 0 0 0;
@@ -340,8 +340,11 @@ body {
   .post {
     width: 100%;
   }
-
   .img-post {
     width: 100%;
+  }
+
+  .seta-direita {
+    display: none;
   }
 }
