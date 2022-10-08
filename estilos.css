@@ -207,8 +207,6 @@ body {
   align-items: center;
 }
 .post {
-  /* height: 200px;
-  width: 100%; */
   margin-bottom: 60px;
   border: 1px solid #dbdbdb;
   border-radius: 3px;
@@ -334,12 +332,14 @@ body {
   .caixa-stories {
     background-color: #fafafa;
     height: 110px;
+    border-radius: 0px;
   }
   .container-topo {
     display: none;
   }
   .post {
     width: 100%;
+    border-radius: 0px;
   }
   .img-post {
     width: 100%;
@@ -348,4 +348,5 @@ body {
   .seta-direita {
     display: none;
   }
+  
 }
